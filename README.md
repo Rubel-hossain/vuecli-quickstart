@@ -1,4 +1,4 @@
-# vuecli-quickstart
+# vue-starter
 
 > A Vue.js project
 
